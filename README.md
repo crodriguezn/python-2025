@@ -1,10 +1,9 @@
 # 📚 Curso de Python - Universidad Estatal de Milagro
-
-### Repositorio con material completo del curso de Python, incluyendo ejercicios por unidad, proyectos prácticos y ejemplos listos para ejecutar en Google Colab.
+Repositorio con material completo del curso de Python, incluyendo ejercicios por unidad, proyectos prácticos y ejemplos listos para ejecutar en Google Colab.
 
 
 ## 🎯 Descripción del Curso
-### Este repositorio contiene el material didáctico del curso "Python" ofrecido por la Universidad Estatal de Milagro, diseñado para desarrollar competencias en programación Python desde conceptos básicos hasta temas avanzados.
+Este repositorio contiene el material didáctico del curso "Python" ofrecido por la Universidad Estatal de Milagro, diseñado para desarrollar competencias en programación Python desde conceptos básicos hasta temas avanzados.
 
 ## 📅 Información del Curso
 - Modalidad: MOOC (Massive Open Online Course)
